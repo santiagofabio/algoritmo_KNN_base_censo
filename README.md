@@ -1,5 +1,5 @@
-# algoritmo_KNN_base_censo
-k-nearest neighbors algorithm
+# k-nearest neighbors 
+
 [matriz_de_confusao_ref]:matriz_de_confusao.png
 [Matriz de Confusão][matriz_de_confusao_ref]
 ![Imagem][matriz_de_confusao_ref] 
